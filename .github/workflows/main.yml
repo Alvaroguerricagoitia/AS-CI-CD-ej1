@@ -23,4 +23,4 @@ jobs:
 
       - name: Ejecutar tests con pytest
         run:
-          pytest
+          pytest test.py
